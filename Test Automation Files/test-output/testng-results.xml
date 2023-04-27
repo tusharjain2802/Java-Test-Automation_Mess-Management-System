@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="7" passed="7" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-04-27T08:31:21Z" name="Default suite" finished-at="2023-04-27T08:32:13Z" duration-ms="51986">
+    <groups>
+    </groups>
+    <test started-at="2023-04-27T08:31:21Z" name="Default test" finished-at="2023-04-27T08:32:13Z" duration-ms="51986">
+      <class name="ExtentReportBasicDemo.DemoExtentReport">
+        <test-method is-config="true" signature="BrowserLaunch()[pri:0, instance:ExtentReportBasicDemo.DemoExtentReport@1b266842]" started-at="2023-04-27T08:31:21Z" name="BrowserLaunch" finished-at="2023-04-27T08:31:24Z" duration-ms="2877" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BrowserLaunch -->
+        <test-method signature="TestCase_001()[pri:0, instance:ExtentReportBasicDemo.DemoExtentReport@1b266842]" started-at="2023-04-27T08:31:24Z" name="TestCase_001" finished-at="2023-04-27T08:31:24Z" duration-ms="28" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestCase_001 -->
+        <test-method signature="TestCase_002()[pri:0, instance:ExtentReportBasicDemo.DemoExtentReport@1b266842]" started-at="2023-04-27T08:31:24Z" name="TestCase_002" finished-at="2023-04-27T08:31:27Z" duration-ms="3051" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestCase_002 -->
+        <test-method signature="TestCase_003()[pri:0, instance:ExtentReportBasicDemo.DemoExtentReport@1b266842]" started-at="2023-04-27T08:31:27Z" name="TestCase_003" finished-at="2023-04-27T08:31:28Z" duration-ms="951" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestCase_003 -->
+        <test-method signature="TestCase_004()[pri:0, instance:ExtentReportBasicDemo.DemoExtentReport@1b266842]" started-at="2023-04-27T08:31:28Z" name="TestCase_004" finished-at="2023-04-27T08:31:33Z" duration-ms="4931" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestCase_004 -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:ExtentReportBasicDemo.DemoExtentReport@1b266842]" started-at="2023-04-27T08:32:13Z" name="tearDown" finished-at="2023-04-27T08:32:13Z" duration-ms="534" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- ExtentReportBasicDemo.DemoExtentReport -->
+      <class name="MyTestCases.TC_01">
+        <test-method is-config="true" signature="setup()[pri:0, instance:MyTestCases.TC_01@7a3793c7]" started-at="2023-04-27T08:31:33Z" name="setup" finished-at="2023-04-27T08:31:34Z" duration-ms="1007" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="logintest()[pri:0, instance:MyTestCases.TC_01@7a3793c7]" started-at="2023-04-27T08:31:34Z" name="logintest" finished-at="2023-04-27T08:31:39Z" duration-ms="4663" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logintest -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:MyTestCases.TC_01@7a3793c7]" started-at="2023-04-27T08:31:39Z" name="teardown" finished-at="2023-04-27T08:31:39Z" duration-ms="166" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- MyTestCases.TC_01 -->
+      <class name="MyTestCases.TC_02">
+        <test-method is-config="true" signature="setup()[pri:0, instance:MyTestCases.TC_02@42b3b079]" started-at="2023-04-27T08:31:39Z" name="setup" finished-at="2023-04-27T08:31:40Z" duration-ms="1413" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="logintest()[pri:0, instance:MyTestCases.TC_02@42b3b079]" started-at="2023-04-27T08:31:40Z" name="logintest" finished-at="2023-04-27T08:31:44Z" duration-ms="3658" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logintest -->
+        <test-method signature="reviewtest()[pri:0, instance:MyTestCases.TC_02@42b3b079]" started-at="2023-04-27T08:31:44Z" name="reviewtest" finished-at="2023-04-27T08:32:12Z" duration-ms="28248" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- reviewtest -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:MyTestCases.TC_02@42b3b079]" started-at="2023-04-27T08:32:12Z" name="teardown" finished-at="2023-04-27T08:32:13Z" duration-ms="435" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- MyTestCases.TC_02 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

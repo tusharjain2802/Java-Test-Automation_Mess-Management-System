@@ -1,0 +1,9 @@
+[INFO ] 2023-04-27 14:01:36.965 [main] TC_01 - Login page opened
+[INFO ] 2023-04-27 14:01:37.305 [main] TC_01 - Username set
+[INFO ] 2023-04-27 14:01:37.375 [main] TC_01 - password set
+[INFO ] 2023-04-27 14:01:42.244 [main] TC_01 - Login page opened
+[INFO ] 2023-04-27 14:01:42.607 [main] TC_01 - Username set
+[INFO ] 2023-04-27 14:01:42.660 [main] TC_01 - password set
+[INFO ] 2023-04-27 14:01:44.396 [main] TC_02 - opened page
+[INFO ] 2023-04-27 14:01:52.330 [main] TC_02 - review given
+[INFO ] 2023-04-27 14:02:12.643 [main] TC_02 - dragdrop
